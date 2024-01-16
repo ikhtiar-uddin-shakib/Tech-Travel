@@ -1,3 +1,3 @@
 **Tech Travel
 
-<img src="./Landing Page Design.jpg" >
+<link href="Tech Travel.html">
